@@ -2,5 +2,4 @@ print('Hello World')
 
 print('Hello Universe')
 
-print('YOLO')
-
+print('Just Hello')
